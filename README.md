@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nhu Xuan Vinh</h1>
+<h1 align="center">
+  <img src="https://github.com/NhuXuanVinh/NhuXuanVInh/edit/main/pic.jpg" alt="Load Failed" width="100">
+  Hi 👋, I'm Nhu Xuan Vinh
+</h1>
 <h3 align="center">A passionate developer from Viet Nam</h3>
 
 - 🔭 I’m currently studying at **Ha Noi University of Science and Technology**
